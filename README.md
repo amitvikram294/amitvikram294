@@ -5,15 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitvikram294" alt="amitvikram294" /></a> </p>
 
+- 🎓 Graduating with a **Bachelor of Computer Applications (BCA) from Swami Vivekanand Subharti University, Meerut.**
+  
+-  🎯 Passionate about **problem-solving and creating innovative solutions.**
+
+-  💻 Proficient in **multiple programming languages and frameworks.**
+  
 - 🔭 I’m currently working on **Front-end Web Development**
 
-- 🌱 I’m currently learning **HTML,CSS, JavaScript BootStrap**
+- 🌱 I’m currently enhancing my skills **Data Structure and Algorithm(DSA) and Full- stack development**
 
-- 💬 Ask me about **front-end**
+- 💬 Ask me about **front-end **
 
-- 📫 How to reach me **amitvikram294@gmail.com**
+- 📫 Reach me at: **amitvikram294@gmail.com**
 
 - 📄 Know about my experiences [file:///D:/Download/RESUME.pdf](file:///D:/Download/RESUME.pdf)
+- 📍 Based in Delhi,India.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
